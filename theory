@@ -1,0 +1,12 @@
+wedghts
+LABEL
+BUTTON
+ENTRY
+CHECKBUTTON
+
+Geometric configuration
+pack():- it is used to place wedghts on top at center
+
+grid():-  it is used to organise the wedghts in table like structure
+
+place():- it is used to prganise the wedghts in table specific position
